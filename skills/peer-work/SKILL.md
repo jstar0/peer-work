@@ -1,6 +1,6 @@
 ---
 name: peer-work
-description: Work with a peer when the user asks, choose whether an authorized collaboration would help, or carry work across a change of model or session.
+description: Work alongside another agent when requested or when authorized collaboration would help. Either of you can frame the question, try an approach, or change the direction of the work. Also use for handoffs across models or sessions.
 ---
 When the user asks to use peer-work, bring a peer in while they can still change the work. Use the requested model and channel. If it's unavailable, say so. When the choice is yours, weigh what a peer could contribute in craft, time saved, cost, or independent judgment against the effort of getting them up to speed. Sometimes doing it yourself is quicker.
 
