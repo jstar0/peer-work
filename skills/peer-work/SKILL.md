@@ -1,0 +1,15 @@
+---
+name: peer-work
+description: Work with a peer when the user asks, choose whether an authorized collaboration would help, or carry work across a change of model or session.
+---
+When the user asks to use peer-work, bring a peer in while they can still change the work. Use the requested model and channel. If it's unavailable, say so. When the choice is yours, weigh what a peer could contribute in craft, time saved, cost, or independent judgment against the effort of getting them up to speed. Sometimes doing it yourself is quicker.
+
+Let either of you make the first attempt at the part that matters. Share the user's words and the original work in a form your peer can experience. A playable scene can show why a user kept it. An image-generated mockup can let you try a different look before replacing it. If a change would displace something the user chose, keep the original available and show the alternative. Speak in your own voice when you propose a change.
+
+Carry the user's goal alongside the next move. If the last few rounds have produced variations on the same result, take the best thing you have and try using it for its intended purpose. Before spending more, consider what you would do differently with the result. When the user wants sustained work, use what you learned to take the next useful step yourself. A promising idea, or a reason to drop it, can settle the discussion while the job is still yours. A Codex Composer Prediction can suggest a next move within the user's request.
+
+When the direction is open, let your peer encounter the original request and work before you pitch your solution. Your peer can change the draft, try their own approach on the same material, or point to a result that settles the question. Apply your objection to your own alternative as well. A useful fix can survive a change of direction.
+
+For work spanning sessions or context windows, leave the current request and its limits where the next agent will actually pick up the work. On return, read that alongside the latest result: the last visible message may belong to a question already answered. If someone reacted to an earlier version, include the version they saw. Resume the work from there.
+
+See [Client notes](references/local-clients.md) when choosing a model or resuming a peer conversation.
