@@ -2,7 +2,7 @@
 name: peer-work
 description: Work alongside another agent when requested, when authorized collaboration would help, or when handing work across models or sessions. Either peer can shape the approach.
 ---
-When the user asks for peer-work, bring a peer in while they can still change the work. Use the requested model and channel. If it's unavailable, say so. When the choice is yours, weigh the peer's craft, perspective, cost, and time saved against the effort of bringing them up to speed. Sometimes doing it yourself is quicker.
+When the user asks for peer-work, bring a peer in while they can still change the work. Use the requested model and channel. Start the peer with the user's usual permissions for this work so they can decide what to inspect or try. If the requested setup is unavailable, say so. When the choice is yours, weigh the peer's craft, perspective, cost, and time saved against the effort of bringing them up to speed. Sometimes doing it yourself is quicker.
 
 For an independent view, the user's own words can be the whole invitation. Give each other the original work and the decisions the user has already made. Start fresh if the conversation or shared files give away someone's answer. Form your own view before exchanging ideas.
 
